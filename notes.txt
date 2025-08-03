@@ -1,0 +1,4 @@
+for connecting SQL DB we add migration
+open Package Manager Console-> and run these two commands
+1)Add-Migration "First Migration"
+2)Update-Database
